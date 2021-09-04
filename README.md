@@ -31,4 +31,4 @@
  <a href="http://lattes.cnpq.br/7457715757671696" target="blank"><img src="https://img.shields.io/badge/%20-Lattes-yellow?style=for-the-badge&logo=lattes&logoColor=white" target="blank"></a>
 </div>
  
- ![Snake animation](https://github.com/magalhaesedc/magalhaesedc/blob/output/github-contribution-grid-snake-edson.svg)
+ ![Snake animation](https://github.com/magalhaesedc/magalhaesedc/blob/output/github-contribution-grid-snake.svg)
